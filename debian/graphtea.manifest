@@ -1,0 +1,3 @@
+usr/share/graphtea/graphtea-main.jar:
+ Class-Path: bsh.jar jama.jar
+ Debian-Java-Home: /usr/lib/jvm/default-java

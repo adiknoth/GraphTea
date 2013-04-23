@@ -1,0 +1,5 @@
+./binary/*.jar usr/share/graphtea
+./binary/lib  usr/share/graphtea/
+./binary/plugins  usr/share/graphtea/
+./binary/extensions  usr/share/graphtea/
+./binary/prefs  usr/share/graphtea/

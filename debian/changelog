@@ -1,0 +1,6 @@
+graphtea (1.0-1) UNRELEASED; urgency=low
+
+  [ Adrian Knoth ]
+  * Initial Debian Upload (Closes: #702564)
+
+ -- Adrian Knoth <adi@drcomp.erfurt.thur.de>  Tue, 23 Apr 2013 14:00:44 +0200

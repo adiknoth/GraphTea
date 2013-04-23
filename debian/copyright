@@ -1,0 +1,19 @@
+This package was debianized by Adrian Knoth <adi@drcomp.erfurt.thur.de> on Tue Apr 23 14:16:05 CEST 2013
+
+It was downloaded from https://github.com/graphtheorysoftware/GraphTea
+
+Upstream Author:
+   Mohammad Ali Rostami <ali@c3e.de>
+   Azin Azadi <aazadi@gmail.com>
+
+Copyright: 2013 Sharif University of Technology
+
+License: GPL
+
+On Debian systems the GPL licence can be found in
+/usr/share/common-licenses/GPL.
+
+Licence of the packaging
+The packaging is Copyright 2013 Adrian Knoth <adi@drcomp.erfurt.thur.de> and
+is licenced under the terms of the BSD licence. On Debian systems the BSD
+licence can be found in /usr/share/common-licenses/BSD.

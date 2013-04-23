@@ -1,0 +1,14 @@
+#!/usr/bin/make -f
+
+JAVA_HOME=/usr/lib/jvm/default-java
+export CLASSPATH=/usr/share/java/bsh.jar:/usr/share/java/jama.jar
+
+%:
+	dh $@ --with javahelper
+
+override_dh_clean:
+	dh_clean
+	ant clean
+
+override_dh_link:
+	dh_link usr/share/graphtea/graphtea-main.jar usr/bin/graphtea
